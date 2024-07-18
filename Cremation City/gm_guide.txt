@@ -1,0 +1,31 @@
+==================
+Combat Differences
+==================
+- Since you're using guns, you will only roll for attack. You can either miss, wound, or kill. 10+ wounds, 15+ kills. A wounded enemy is moved on the initiative list to right before the active player and all attacks against them have advantage until end of combat.
+- Facing direction matters. You may spend one square of movement to change your facing direction. Enemy movements will only be seen if you are facing them.
+- In lieu of attacking, you may prepare an attack. At any time before your next turn, including during another player's turn, you may instantly make an attack on an enemy within your facing direction. If you do this to an enemy that just entered your line of sight, you have advantage.
+- You get 10 seconds to decide your turn and 10 seconds to execute. If you don't decide in time, your turn is skipped.
+
+[GM NOTE] Combat is very difficult. The mystical time-travelling device the players will get from Preston Edison's Storage Shed lets players restart combat if they fail, but doing this will permanently consume one sixteenth of an ounce (one hit) of meth. This limits players both by money and by the amount of product their dealer Tats has on hand.
+
+[GM NOTE] The initiative order changing mechanic is a bit weird, especially since turns must be taken inside 20 seconds. So I have built a simple web application to track this. Go to https://zungrysoft.github.io/initiative-tracker/ for an easier way to track the currently active player in this campaign.
+
+===========
+Story beats
+===========
+
+Introduction:
+------------
+You have all found yourselves in debt $20,000 to a ruthless bookie named James Grimly. Brainiac came into a large inheritance from his uncle, which Roach convinced him to put down on a horse race. Brainiac lost the money and put down another $20,000 he didn't have to win it back, this time enlisting Lucky Joe to place the bet, him having the most luck. You're now all at Brainiac's apartment, trying to figure out what to do. You got your friend Sack of Quarters to hang around you for protection. So the three of you are sitting around arguing with each other about whose fault this is.
+
+[GM NOTE] Cue the players the start arguing.
+
+While you're arguing, your front door flies open. Oh shit, is it James Grimly here to collect? Oh good, it's just Helen, here to chew out her boyfriend Brainiac for not returning her calls.
+
+[GM NOTE] Cue Helen to start chewing out Brainiac.
+
+Lucky Joe notices that three men have just walked through the open front door. It's James Grimly and two muscley henchmen! You all turn your focus towards them. The two henchmen are holding baseball bats and have guns at their hips. Grimly breakes the silence by saying, "Do you know why I'm here?".
+
+[GM NOTE] Grimly speaks calmly, yet assertively. He will explain to the players that they have 48 hours to get him his money or he will be coming for all five of them. If any character stands up or tries to approach him, his henchmen will raise their bats up and he will get more aggressive and say, "Whoa, you are good right there." If any character gives him backtalk, he will grab the bat from one of his henchmen, scream, "DO I LOOK LIKE I'M MESSING AROUND HERE?!", and get really up close to the character that gave the backtalk. If any player tries to attack him, one of the henchmen will draw his gun and shoot them. Do a fake roll behind the GM screen and say that the henchman shot them in the stomach. Once James is done talking, he will end by saying, "Twenty grand. 48 hours. Not a dollar less, not a second more! Got it?" If the players don't reply, yell, "GOT IT!?"
+
+Grimly and his henchmen leave the apartment. Now it's up to you to figure out what to do in these 48 hours. If you all look at your character sheets, you will each have a "Connections" section. These might give you some ideas on where to go.

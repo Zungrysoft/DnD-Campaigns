@@ -1,0 +1,36 @@
+===============
+One Hit of Meth
+===============
+One sixteenth of an ounce of meth. Can be smoked during a short or long rest. When smoked, gives -5 to CHA, and +3 to STR and DEX for three hours.
+
+
+=========================
+Preston Edison's Notebook
+=========================
+Three pages are bookmarked.
+
+Page 138, "Direct Brain Rewriting"
+----------------------------------
+"My morse code machine just isn't cutting it anymore. Every morning, I have to transcribe fifty pages worth of discoveries from morse code. At a certain point, I won't be able to make any actual discoveries during the day. And it's not just the translation; it's actually understanding them. Humans learn better when they have time to digest information. But time is something I don't have. I can only imagine how many times I've repeated the same cycle. Seven hours transcribing from morse code, three more hours just trying to understand what my past self is trying to say, four hours of actual work, and two hours of transcribing the new data back to morse code and sending it back in time it over the machine. In my condition, I can't work any faster than that.
+
+I am running out of space. I can only compress so much learned knowledge into a single day. If I am limited on how much matter I can edit at once, I have to be economical. I can only send information to my past self, which I have to spend time transcribing. Once I fill up a day's worth of discoveries, what more can I do? According to Dr. Martinson, I likely don't have another day. And it occurs to me that if I fail on any one of these iterations, it's all over. If I hit my head, pass out, or anything like that, I won't be able to pass back the next day's information and the chain will be broken. I need to speed things up.
+
+Most of the time I am spending in each cycle is transcribing yesterday's information and then understanding it. I might have a way to skip both of those. The human brain uses a surprisingly small amount of matter to encode information. What if I could directly write memories to my brain in the past so that I could just know everything I need to know already and immediately start working? Then it truly would be infinite."
+
+Page 85, "Parallel Timelines"
+-----------------------------
+"Time isn't a line, nor a circle. It's a tree. Whenever information is edited in the past, that segment of spacetime is copied, at least partially. Whatever part of space was changed via time editing is cloned in parallel to the rest of space and runs along it in an ever-expanding sphere of influence limited by the speed of light. The problem is the sheer amount of energy needed to create such a parallel world. I can only edit a few cubic micrometers of matter per hour of time I am sending it backward.
+
+I have built a machine that can send information to the past by arranging molecules in morse code and can read information written in the future back out. It's rather surreal, hearing from your future self from a parallel timeline. Apparently, I discovered a way to eek out another 5% performance from this machine. I only found out because I wrote it back to myself in the past using this very machine.
+
+Dr. Martinson says it is only by God's grace that I have lived this long. I don't expect that "grace" will last much longer. But I think I may have come up with a way to effectively prolong my life indefinitely."
+
+Page 23, "A Portable Battery For Time Editing"
+----------------------------------------------
+"Getting the energy all in one place was the toughest part. It needs a big blast of energy all at once. I've been able to get the battery all the way down the size of a playing card. As it turns out, crystal methamphetamine works extremely well for focusing the energy. Either isomer works, so I was able to separate the L-methamphetamine crystal from my parkinsons disease medications."
+
+
+====================
+Brain Editing Device
+====================
+Press the button to copy your memories to your past self from fifteen minutes ago. In order to work, it must have one hit of meth loaded into it, which is permanently consumed upon use. This will affect all players in the party.

@@ -1,0 +1,15 @@
+=============================
+Preston Edison's Storage Shed
+=============================
+
+Introduction:
+------------
+You all arrive at U-Self-Store. It's a really big place and is confusingly laid out. It takes about fifteen minutes to find storage shed #343. You open up the shed.
+
+[GM NOTE]: Have all of the players make a Dexterity check. Whichever player rolls the lowest accidentally bumps a table and knocks over an empty glass, which falls onto the floor and shatters.
+
+This is the storage shed where Uncle Preston died. Apparently he died of a stroke, but they only found him a few days later. Other than the smell, it's a surprisingly clean and well-kept storage shed. There is a white board covering the back wall with some unintelligible notes and graphs. The large desk is covered with electronic components and notebooks. One of the notebooks on the desk is open to the final page. Right next to that notebook is a metal box with a button on it.
+
+[GM NOTE]: The notebook is the "Preston Edison's Notebook" item. If a player wants to read the notebook, give that item to them.
+
+[GM NOTE]: The metal box is the "Brain Editing Device" item. It already has one hit of crystal meth loaded into the slot. If a player presses the button while in the storage shed, it will teleport them back in time to the parking lot of the storage facility. Everything will reset to exactly how it was fifteen minutes ago except that the hit of crystal meth that was used to power it will be gone permanently. The players will no longer have the Brain Editing Device in their possession; it will be back in the storage shed. When the players return to the storage shed, it will be exactly as it was before they entered. The empty glass that shattered earlier will be back on the table, perfectly intact. If they try to press the button again, nothing happens since the hit of crystal meth that was loaded into it was consumed from the first press.

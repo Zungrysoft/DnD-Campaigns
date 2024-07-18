@@ -1,0 +1,139 @@
+=======================
+Brian "Brainiac" Edison
+=======================
+You're a thinker. You know about stuff. Like, why do doctors wear white clothes? Shouldn't they wear black clothes to hide the blood they get all over it? Your friends didn't seem very interested in this thought. That figures. You're clearly a bit above them intellectually. You know you could do something great if you just had some money to get your bitch landlady off your back for a bit. Like, a perpetual motion machine. Why has no one invented that yet? If someone just made that, we wouldn't have to worry about nuclear power or anything. Which is why you're pissed that Roach talked you into putting your $20,000 inheritance from your uncle on a pony race. Then after you lost it all, you did the sensible thing and bet another $20,000 to win it back. Now your bookie wants to break all of your knees and apparently it's your fault? You're just trying to take care of business and these assholes are giving you the third degree, your girlfriend Helen is leaving messages asking why you're not calling her back, and you're twenty grand in the hole! Why do you hang around these idiots?
+
+Stats:
+Str - 11 (+0)
+Dex - 10 (+0)
+Con - 10 (+0)
+Int - 12 (+1)
+Wis - 8  (-1)
+Cha - 8  (-1)
+Speed is 25ft
+
+Posessions:
+- $90 in cash
+- Key to your uncle's storage shed.
+
+Abilities:
+- Strategic Thinker: You have +2 on attack rolls you have advantage on.
+
+Connections:
+- Preston Edison: Your dead uncle who was an eccentric inventor. He left you $20,000 which you blew on horse races. He also left you the key to his storage shed, which you haven't gotten around to looking through yet. Maybe he has some stuff there you can hock?
+- James Grimly: Your asshole bookie, whom you owe $20,000.
+
+Vices:
+- Inflated Ego: You constantly think you're smarter than everyone else. (which is because you clearly *are* smarter than everyone else). You also tend to take all of the credit when things go right and shift blame when they go wrong.
+
+
+===============================
+Ed "Sack of Quarters" Mackenzie
+===============================
+You may not have smarts like Brainiac, but you know how to handle yourself. Some buddies of yours put down a bet with money they didn't have and now they're $20,000 in the hole with their bookie. Now the bookie is coming over to their place to "settle" things and they want you there for protection. That's fine. You've dealt with assholes like this bookie guy before. You'll just tell him they don't have the money right now, but they'll have it soon, and he'd better learn to be patient. You gotta be assertive with these people or they'll never stop pushing. How tough can he really be?
+
+Stats:
+Str - 14 (+2)
+Dex - 8  (-1)
+Con - 12 (+1)
+Int - 8  (-1)
+Wis - 10 (+0)
+Cha - 13 (+1)
+Speed is 25ft
+
+Possessions:
+- Baseball Bat: Melee, 4 + Str to hit
+- Lighter and Pack of Cigarettes
+- $250 in cash
+
+Abilities:
+- Bulldozer: Once per combat, become immune to bullets for one turn.
+
+Connections:
+- The pawn shop on fifth: If you know how to ask (which you do), you can browse the firearms they have for sale.
+
+Vices:
+- Hot Head: You're a little overconfident in your ability to handle dangerous situations. And you tend to escalate confrontations unnecessarily.
+- Just Say No: Won't take drugs. No way would you poison yourself with that shit. You could go for a cigarette though...
+
+
+=========
+Lucky Joe
+=========
+You earned your nickname from of a particularly lucky streak of correctly guessing the outcome of a coin flip twelve times in a row. (You guessed heads all twelve times. So really it was the coin that was lucky.) Unfortunately, this luck never extended to anything useful like gambling. But because of your reputation, no matter how ill-earned, people always want you to place bets down for them. You're not sure which is worse, that people would blame you for the inevitable bad outcome, or that they would always make the same, "Oooh I guess Joe's Lucky Streak is up now!" comment every single fucking time. And then they'd always forget a week later the next time they needed you to put another bet down for them on whatever the fuck. The latest was Roach and Brainiac getting you to put $20,000 down on a horse race, which you found out later they didn't have. They were trying to win back the 20 grand they lost the night before on another race. Fucking idiots.
+
+Stats:
+Str - 8  (-1)
+Dex - 13 (+1)
+Con - 12 (+1)
+Int - 11 (+0)
+Wis - 12 (+1)
+Cha - 10 (+0)
+Speed is 25ft
+
+Possessions:
+- $540 in cash
+- Butterfly Knife: Melee, 4 + Dex to hit
+
+Abilities:
+- Lucky: Once per combat, you may guarantee a hit on one attack roll.
+
+Connections:
+- Dr. Gonzalez: A veterinarian who will fix up wounds caused by...less than legal activities. He charges the big bucks though. $500 for a full recovery, last time you got a quote. He is taking a risk, after all.
+
+Vices:
+- Tightwad: You really don't like paying for other people.
+
+
+=====
+Roach
+=====
+Your actual name is...Edward. Edward Smith. Nobody calls you that these days; you're just Roach. It used to piss you off when people called you that, but now it's just what it is. Constant drug use has beaten you down to the point where little matters beyond the source of your next fix. Your latest vice is crystal meth and you're working very hard to feed it. Your friend Brainiac (some people get all the good nicknames) came into a bunch of money. You convinced him to get more money by putting it down on a horsie race. That way you get some of it, since it was your idea. You lost all of it though. Wanting to recoup his losses, Brainiac put down another bet to win it back. He got Lucky Joe to call the horse this time, him having the best luck and all. But he lost again! Guess Joe's Lucky Streak is up now! Anyway, now you're all in dutch with the bookie since you never had the money for the second bet. The worst part of it all is that you were counting on that money coming in to buy your next hit and you're really starting to get the shakes. This whole bookie thing wouldn't be so bad if you could just get a hit. Just one...
+
+Stats:
+Str - 11 (+0)
+Dex - 14 (+2)
+Con - 8  (-1)
+Int - 10 (+0)
+Wis - 8  (-1)
+Cha - 10 (+0)
+Speed is 25ft
+
+Possessions:
+- $20 in cash.
+- Switchblade: Melee, 4 + Dex to hit
+- Handgun: Oh wait, you hocked that to buy drugs. Never mind.
+
+Connections:
+- Tats: Your meth dealer. $40 for a hit. Gets his product from Spikey Mike.
+- Spikey Mike: Cooks meth out of some apartments on Brooke St. Runs a tight ship: security cameras, guards, the whole nine yards. Keeps a lot of cash on hand. Twelve grand at least.
+
+Vices:
+- Meth Addiction: It's been 18 hours since your last hit. If you go 24 hours without a hit, you get the shakes, giving you -3 to all checks. When you're jonesing, you'll do anything for a hit. Anything.
+
+
+==============
+Hardware Helen
+==============
+Aside from your impressive collection of facial piercings, your nickname of "Hardware Helen" has been earned by your skill with vehicles of all kinds. Your main claim to fame is escaping a bank robbery by jacking an ice cream truck. (The hard part wasn't hotwiring it, it was figuring out how to disable the speakers.) Your boyfriend Brian hasn't been responding to your calls for the past three days. He can be an asshole sometimes. He thinks just because he posted bail that time you tried to sell a stolen flatscreen to a Craigslist buyer who turned out to be an undercover cop, he's home free to do whatever he wants. You've decided enough is enough. You're going over to his house tonight to give him the come-to-Jesus talk. Either he starts being boyfriend material or you're through.
+
+Stats:
+Str - 8  (-1)
+Dex - 13 (+1)
+Con - 9  (-1)
+Int - 12 (+1)
+Wis - 10 (+0)
+Cha - 11 (+0)
+Speed is 25ft
+
+Possessions:
+- 2002 Chevrolet Corvette (Stolen)
+- Car Hotwiring and Lock-Picking Kit
+- $53 in cash
+
+Abilities:
+- Gearhead: +4 to ability checks involving vehicles.
+
+Vices:
+- Sticky Fingers: You don't think about the consequences before you commit a crime, especially one involving theft.
+- About a Six: Surprisingly for a female D&D character, you're not insanely hot.
