@@ -48,6 +48,7 @@ Possessions:
 
 Abilities:
 - Bulldozer: Once per combat, become immune to bullets for one turn.
+- Steadfast: Taking a bullet does not change your position in the initiative order.
 
 Connections:
 - The pawn shop on fifth: If you know how to ask (which you do), you can browse the firearms they have for sale.
@@ -78,9 +79,6 @@ Possessions:
 Abilities:
 - Lucky: Once per combat, you may guarantee a hit on one attack roll.
 
-Connections:
-- Dr. Gonzalez: A veterinarian who will fix up wounds caused by...less than legal activities. He charges the big bucks though. $500 for a full recovery, last time you got a quote. He is taking a risk, after all.
-
 Vices:
 - Tightwad: You really don't like paying for other people.
 
@@ -103,6 +101,9 @@ Possessions:
 - $20 in cash.
 - Switchblade: Melee, 4 + Dex to hit
 - Handgun: Oh wait, you hocked that to buy drugs. Never mind.
+
+Abilities:
+- Sneaky: You've robbed a lot of family members to get money for drugs. +3 to stealth checks.
 
 Connections:
 - Tats: Your meth dealer. $40 for a hit. Gets his product from Spikey Mike.
@@ -127,7 +128,7 @@ Cha - 11 (+0)
 Speed is 25ft
 
 Possessions:
-- 2002 Chevrolet Corvette (Stolen)
+- 2002 Ford Crown Victoria (Stolen)
 - Car Hotwiring and Lock-Picking Kit
 - $53 in cash
 
@@ -137,3 +138,32 @@ Abilities:
 Vices:
 - Sticky Fingers: You don't think about the consequences before you commit a crime, especially one involving theft.
 - About a Six: Surprisingly for a female D&D character, you're not insanely hot.
+
+
+============
+Oswald Lemon
+============
+You're Brian's roommate and he can be very inconsiderate at times. He leaves his dishes in the sink. He has his girlfriend over all the time. (They're very loud.) Just about the only thing he's good for is that he can get adderall for you when you need to pull an all-nighter. You're a pre-med student and you were studying for a midterm when you started hearing yelling coming from the common area. Dipshit Brian and his twice-dipshit friends are arguing with each other. Something about being $20,000 in debt to someone? Whatever. You just want them to quiet down, so you go into the living room to tell them so.
+
+Stats:
+Str - 10 (+0)
+Dex - 10 (+0)
+Con - 9  (-1)
+Int - 15 (+2)
+Wis - 12 (+1)
+Cha - 7  (-2)
+Speed is 25ft
+
+Possessions:
+- $4 in cash (College is expensive, man)
+- Nine packets of Ramen Noodle
+- Pocket Knife
+
+Abilities:
+- Pre-Med: +2 to medicine checks.
+
+Connections:
+- Jamie Gonzalez: A former classmate who now works as an ER doctor. He might be willing to fix up wounds caused by...less than legal activities. Not for free though.
+
+Vices:
+- Technically Correct: You feel the need to correct people on pedantic things.

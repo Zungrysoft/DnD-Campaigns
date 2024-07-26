@@ -1,3 +1,8 @@
+========
+Overview
+========
+[GM NOTE] This is the main guide for the Game Master. Please read this guide all the way through before starting. Information about specific locations may be read separately in the "locations" document. Anything with [GM NOTE] in front of it is not to be read directly to the players and is for your reference.
+
 ==================
 Combat Differences
 ==================
@@ -10,12 +15,9 @@ Combat Differences
 
 [GM NOTE] The initiative order changing mechanic is a bit weird, especially since turns must be taken inside 20 seconds. So I have built a simple web application to track this. Go to https://zungrysoft.github.io/initiative-tracker/ for an easier way to track the currently active player in this campaign.
 
-===========
-Story beats
-===========
-
-Introduction:
-------------
+============
+Introduction
+============
 You have all found yourselves in debt $20,000 to a ruthless bookie named James Grimly. Brainiac came into a large inheritance from his uncle, which Roach convinced him to put down on a horse race. Brainiac lost the money and put down another $20,000 he didn't have to win it back, this time enlisting Lucky Joe to place the bet, him having the most luck. You're now all at Brainiac's apartment, trying to figure out what to do. You got your friend Sack of Quarters to hang around you for protection. So the three of you are sitting around arguing with each other about whose fault this is.
 
 [GM NOTE] Cue the players the start arguing.
@@ -28,4 +30,9 @@ Lucky Joe notices that three men have just walked through the open front door. I
 
 [GM NOTE] Grimly speaks calmly, yet assertively. He will explain to the players that they have 48 hours to get him his money or he will be coming for all five of them. If any character stands up or tries to approach him, his henchmen will raise their bats up and he will get more aggressive and say, "Whoa, you are good right there." If any character gives him backtalk, he will grab the bat from one of his henchmen, scream, "DO I LOOK LIKE I'M MESSING AROUND HERE?!", and get really up close to the character that gave the backtalk. If any player tries to attack him, one of the henchmen will draw his gun and shoot them. Do a fake roll behind the GM screen and say that the henchman shot them in the stomach. Once James is done talking, he will end by saying, "Twenty grand. 48 hours. Not a dollar less, not a second more! Got it?" If the players don't reply, yell, "GOT IT!?"
 
-Grimly and his henchmen leave the apartment. Now it's up to you to figure out what to do in these 48 hours. If you all look at your character sheets, you will each have a "Connections" section. These might give you some ideas on where to go.
+Grimly and his henchmen leave the apartment. Now it's up to you to figure out what to do in these 48 hours. If you all look at your character sheets, you will each have a "Connections" section. These might give you some ideas on where to go next.
+
+====================
+The Climactic Finale
+====================
+[GM NOTE] This is designed as a one-shot campaign. So this final combat encounter is optional based on whether you have time for it. Early on, you should clue the players in that someone might be watching them. Turns out the people watching them are opportunists who rob people who are on their way to pay their bookie. They stand near the booth at the horse races and note down who placed the largest bets. Then if they lose, they follow them around for a bit, waiting for an opportunity to rob them. The finale of the campaign (if you have time for it) is that these guys stop the characters on their way to the bookie and get in one last shootout in an attempt to steal the bag of cash.
