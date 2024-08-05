@@ -45,6 +45,15 @@ You pull up to Tats and roll down the window. He asks, "Whatchya need?"
 [GM NOTE]: Tats sells one hit (one sixteenth of an once, also known as a "teenth") for $40. His current supply is a bit short, only eight hits. If the players buy from Tats, he'll take their money and then point them down the street to the person who actually delivers the product. He will signal the other guy with a number of fingers representing how many they bought. He's a block down and will pull the meth from under a cinder block to give it to the players.
 
 
+======================
+Spikey Mike's Meth Lab
+======================
+
+[GM NOTE]: Spikey Mike is known to the players to keep a lot of cash on hand. The players may decide to rob Spikey Mike for his money. If they can complete this encounter, they'll come out of it with five hits of meth and $10,000 in cash. Spikey Mike also drives a 2002 Chevy Corvette which the players might opt to steal.
+
+[GM NOTE]: Design a layout for a large three-bedroom apartment with a back deck. One of the bedrooms will be the meth lab where Spikey Mike is cooking. Place five guards in various places around the house. As soon as they hear gun shots or anything else loud, combat will begin and they guards will start hunting down the players. Spikey Mike has his own enemy design in the "enemies" document.
+
+
 ==========================
 Jamie Gonzalez's Apartment
 ==========================
