@@ -13,7 +13,7 @@ Cha - 8  (-1)
 Speed is 25ft
 
 Posessions:
-- $90 in cash
+- $40 in cash
 - Key to your uncle's storage shed.
 
 Abilities:
@@ -42,12 +42,11 @@ Cha - 13 (+1)
 Speed is 25ft
 
 Possessions:
-- Baseball Bat: Melee, 4 + Str to hit
+- Baseball Bat
 - Lighter and Pack of Cigarettes
-- $250 in cash
+- $70 in cash
 
 Abilities:
-- Bulldozer: Once per combat, become immune to bullets for one turn.
 - Steadfast: Taking a bullet does not change your position in the initiative order.
 
 Connections:
@@ -73,8 +72,8 @@ Cha - 10 (+0)
 Speed is 25ft
 
 Possessions:
-- $540 in cash
-- Butterfly Knife: Melee, 4 + Dex to hit
+- $240 in cash
+- Butterfly Knife
 
 Abilities:
 - Lucky: Once per combat, you may guarantee a hit on one attack roll.
@@ -98,8 +97,8 @@ Cha - 10 (+0)
 Speed is 25ft
 
 Possessions:
-- $20 in cash.
-- Switchblade: Melee, 4 + Dex to hit
+- $20 in cash
+- Switchblade
 - Handgun: Oh wait, you hocked that to buy drugs. Never mind.
 
 Abilities:
@@ -116,7 +115,7 @@ Vices:
 ==============
 Hardware Helen
 ==============
-Aside from your impressive collection of facial piercings, your nickname of "Hardware Helen" has been earned by your skill with vehicles of all kinds. Your main claim to fame is escaping a bank robbery by jacking an ice cream truck. (The hard part wasn't hotwiring it, it was figuring out how to disable the speakers.) Your boyfriend Brian hasn't been responding to your calls for the past three days. He can be an asshole sometimes. He thinks just because he posted bail that time you tried to sell a stolen flatscreen to a Craigslist buyer who turned out to be an undercover cop, he's home free to do whatever he wants. You've decided enough is enough. You're going over to his house tonight to give him the come-to-Jesus talk. Either he starts being boyfriend material or you're through.
+Aside from your impressive collection of facial piercings, your nickname of "Hardware Helen" has been earned by your skill with vehicles of all kinds. Your main claim to fame is escaping a bank robbery by jacking an ice cream truck. (The hard part wasn't hotwiring it, it was figuring out how to disable the music.) Your boyfriend Brian hasn't been responding to your calls for the past three days. He can be an asshole sometimes. He thinks just because he posted bail that time you tried to sell a stolen flatscreen to a Craigslist buyer who turned out to be an undercover cop, he's home free to do whatever he wants. You've decided enough is enough. You're going over to his house tonight to give him the come-to-Jesus talk. Either he starts being boyfriend material or you're through.
 
 Stats:
 Str - 8  (-1)

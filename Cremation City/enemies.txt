@@ -1,4 +1,40 @@
-=============================
-Preston Edison's Storage Shed
-=============================
+===========
+Basic Enemy
+===========
 
+Stats:
+Str - 12 (+1)
+Dex - 10 (+0)
+Con - 10 (+0)
+Int - 10 (+0)
+Wis - 10 (+0)
+Cha - 10 (+0)
+Speed is 25ft
+
+Attacks:
+- Handgun: Roll a d20.
+    10 or more wounds
+    15 or more knocks unconscious
+    17 or more kills
+
+===========
+Spikey Mike
+===========
+
+Stats:
+Str - 12 (+1)
+Dex - 16 (+3)
+Con - 10 (+0)
+Int - 10 (+0)
+Wis - 10 (+0)
+Cha - 12 (+1)
+Speed is 25ft
+
+Attacks:
+- Machine Gun: Roll three d20 and use the highest.
+    10 or more wounds
+    15 or more knocks unconscious
+    17 or more kills
+
+Combat Tactics:
+- Spikey Mike will be cooking meth when the players arrive. As soon as he hears gunshots, he will pick up his machine gun and aim it toward the door. Once a player comes in, he will open fire, having advantage. (With advantage, he will roll six d20 rather than three.) This will almost certainly knock the player unconscous at the least. This will prompt the players to find another way to deal with him. This could include stealthily shooting him from the other side of the bedroom window through the blinders.

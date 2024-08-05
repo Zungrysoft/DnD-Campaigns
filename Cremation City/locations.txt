@@ -8,8 +8,72 @@ You all arrive at U-Self-Store. It's a really big place and is confusingly laid 
 
 [GM NOTE]: Have all of the players make a Dexterity check. Whichever player rolls the lowest accidentally bumps a table and knocks over an empty glass, which falls onto the floor and shatters.
 
-This is the storage shed where Uncle Preston died. Apparently he died of a stroke, but they only found him a few days later. Other than the smell, it's a surprisingly clean and well-kept storage shed. There is a white board covering the back wall with some unintelligible notes and graphs. The large desk is covered with electronic components and notebooks. One of the notebooks on the desk is open to the final page. Right next to that notebook is a metal box with a button on it.
+This is the storage shed where Uncle Preston died. Apparently he died of a stroke, but they only found him a few days later. Other than the smell, it's a surprisingly clean and well-kept storage shed. There is a white board covering the back wall with some unintelligible notes and graphs. The large desk is covered with electronic components and notebooks. One of the notebooks on the desk is open to the final page. Right next to that notebook is a metal box with a button on it as well as a smaller metal box about the size of a TV remote.
 
 [GM NOTE]: The notebook is the "Preston Edison's Notebook" item. If a player wants to read the notebook, give that item to them.
 
 [GM NOTE]: The metal box is the "Brain Editing Device" item. It already has one hit of crystal meth loaded into the slot. If a player presses the button while in the storage shed, it will teleport them back in time to the parking lot of the storage facility. Everything will reset to exactly how it was fifteen minutes ago except that the hit of crystal meth that was used to power it will be gone permanently. The players will no longer have the Brain Editing Device in their possession; it will be back in the storage shed. When the players return to the storage shed, it will be exactly as it was before they entered. The empty glass that shattered earlier will be back on the table, perfectly intact. If they try to press the button again, nothing happens since the hit of crystal meth that was loaded into it was consumed from the first press.
+
+[GM NOTE]: The smaller metal box shaped like a TV remote is the Hyperelectromagnet. If the players press the button to see what it does, it will pull the nearest metal object (such as the Brain Editing Device) toward it.
+
+
+=============
+The Pawn Shop
+=============
+
+You enter the dilapidated pawn shop. Sack of Quarters knows the owner so he gives you all access to the back room where they keep the firearms. Selling firearms in a pawn shop is illegal in this state, so this is all a little hush hush. These are the items for sale.
+
+4x Handgun - $60
+1x Double-Barreled Shotgun - $50
+1x Bulletproof Vest - $70
+3x Switchblade - $10
+1x Katana - $600
+
+[GM NOTE]: You can show the players the item cards for these items if they ask.
+
+[GM NOTE]: The players might think to sell the two devices they got from Preston Edison's storage shed to the pawn shop to repay their debts. Since this would trivialize the campaign, we will put the kibosh on this. If they try to sell the Brain Editing Device, they will be unable to convince the pawn shop owner that it actually works since the device only ever takes the six players back in time. The pawn shop owner will no longer remember anything that happened in the last fifteen minutes. If they try to sell the hyperelectromagnet, the pawn shop owner will only be somewhat impressed and will not offer any more than $300 for it.
+
+
+============
+Tats' Corner
+============
+
+[GM NOTE]: After the players pick up the Brain Editing Device, they'll probably get the idea to buy some meth to actually be able to use it. Roach will know Tats, his dealer.
+
+You pull up to Tats and roll down the window. He asks, "Whatchya need?"
+
+[GM NOTE]: Tats sells one hit (one sixteenth of an once, also known as a "teenth") for $40. His current supply is a bit short, only eight hits. If the players buy from Tats, he'll take their money and then point them down the street to the person who actually delivers the product. He will signal the other guy with a number of fingers representing how many they bought. He's a block down and will pull the meth from under a cinder block to give it to the players.
+
+
+==========================
+Jamie Gonzalez's Apartment
+==========================
+
+[GM NOTE]: Jamie Gonzalez is an ER doctor and a good friend of Oswald Lemon. He can be trusted, but he's not exactly thrilled at the idea of treating gunshot wounds for Oswald's criminal friends. He's not a criminal, but may be convinced to help anyway out of respect for Oswald. It will take some convincing to get him to help. He will probably also demand between $500 and $2000 in return.
+
+[GM NOTE]: Once Jamie agrees to help, he will tell one of the players to go to the drug store and buy some supplies and will get to work. After he his done, he will tell the players in no uncertain terms that they should NEVER come back.
+
+Jamie finishes cleaning himself up and then walks up to Oswald. He says, "Alright, now let me make sure there is no mistake here. This is a one time thing. I never want to see these five again." He gestures to everyone except Oswald. "If you bring them here again, I will call the cops on you."
+
+
+==========================
+The Second Mortgage Casino
+==========================
+
+[GM NOTE]: If the players get the idea to increase their money by gambling it at a casino, the nearest one is the Second Mortgage Casino, about a 10-hour drive away. The way gambling interacts with the time travel mechanic is that the Butterfly Effect (or Chaos Theory, if you prefer) will prevent players from being able to precisely recreate the exact same result of a roulette wheel, game of craps, etc. The result will be different each time the players go back in time. They can, of course, still go back to regain the money they lost from a bad roll at the cost of the one hit of meth the Brain Editing Device requires. The issue will be getting the seed money. Doubling the few hundred dollars the players start with will take many iterations so they will either need a significant amount of starting money or a significant amount of meth. Either can be obtained through the other encounters.
+
+
+=================
+The Mountain Pass
+=================
+
+[GM NOTE] This is designed as a one-shot campaign. So this is an extra combat encounter that you may include based on whether you have time for it. While the players are driving somewhere (could be going over to pay James Grimly or coming back from the casino), two large SUV's will cut them off on the road from either side and a shootout will ensue. At some point before this encounter, you should clue the players in that someone might be watching them or tailing their car. Turns out the people watching them are opportunists who rob people whom they know have a lot of money. (Maybe they saw them place the bet at the bookie or maybe they were at the casino and saw them win all of that money and withdraw their winnings in cash.) So these guys ambush the players in order to steal all of their money.
+
+
+==================
+Counting the Money
+==================
+
+[GM NOTE]: This is an encounter I came up with one the fly when I ran this campaign. If the players wait around Brainiac's apartment for James Grimly to come collect his money, you may do one final encounter involving Grimly and the Police. While Grimly and his goons are counting his money to make sure it's all there, the police knock on the door, wanting to speak to the players. Your players have no doubt participated in some very illegal activities to obtain this money, so the police can say they have evidence connecting the players to the crime. (Make this up to match whatever evidence the players might have left in their wake from the crimes they committed so far in this campaign.) James Grimly will tell one of the players to hide the money and will then grab a beer and sit on the couch, as if they're all just friends hanging out. After all, the police don't have anything on him here except for the illegal gambling money.
+
+[GM NOTE]: What happens from here is up to the players. They're now stuck between a rock and a hard place between Grimly and the police. If they decide to fight head-on, the encounter will be brutally difficult as the cops have the apartment surrounded by four squad cars. (Though you may want to fudge the dice a little to make sure the players have an opportunity to use the Brain Editing Device once things go really south.) It is up to the players on how to solve this creatively.

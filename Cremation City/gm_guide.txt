@@ -7,9 +7,9 @@ Overview
 Combat Differences
 ==================
 - Since you're using guns, you will only roll for attack. You can either miss, wound, or kill. 10+ wounds, 15+ kills. A wounded enemy is moved on the initiative list to right before the active player and all attacks against them have advantage until end of combat.
-- Facing direction matters. You may spend one square of movement to change your facing direction. Enemy movements will only be seen if you are facing them.
 - In lieu of attacking, you may prepare an attack. At any time before your next turn, including during another player's turn, you may instantly make an attack on an enemy within your facing direction. If you do this to an enemy that just entered your line of sight, you have advantage.
 - You get 10 seconds to decide your turn and 10 seconds to execute. If you don't decide in time, your turn is skipped.
+- To simplify things, we will play as if everyone has unlimited ammo.
 
 [GM NOTE] Combat is very difficult. The mystical time-travelling device the players will get from Preston Edison's Storage Shed lets players restart combat if they fail, but doing this will permanently consume one sixteenth of an ounce (one hit) of meth. This limits players both by money and by the amount of product their dealer Tats has on hand.
 
@@ -32,7 +32,4 @@ Lucky Joe notices that three men have just walked through the open front door. I
 
 Grimly and his henchmen leave the apartment. Now it's up to you to figure out what to do in these 48 hours. If you all look at your character sheets, you will each have a "Connections" section. These might give you some ideas on where to go next.
 
-====================
-The Climactic Finale
-====================
-[GM NOTE] This is designed as a one-shot campaign. So this final combat encounter is optional based on whether you have time for it. Early on, you should clue the players in that someone might be watching them. Turns out the people watching them are opportunists who rob people who are on their way to pay their bookie. They stand near the booth at the horse races and note down who placed the largest bets. Then if they lose, they follow them around for a bit, waiting for an opportunity to rob them. The finale of the campaign (if you have time for it) is that these guys stop the characters on their way to the bookie and get in one last shootout in an attempt to steal the bag of cash.
+

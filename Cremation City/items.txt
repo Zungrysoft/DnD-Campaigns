@@ -1,9 +1,3 @@
-===============
-One Hit of Meth
-===============
-One sixteenth of an ounce of meth. Can be smoked during a short or long rest. When smoked, gives -5 to CHA, and +3 to STR and DEX for three hours.
-
-
 =========================
 Preston Edison's Notebook
 =========================
@@ -34,3 +28,136 @@ Page 23, "A Portable Battery For Time Editing"
 Brain Editing Device
 ====================
 Press the button to copy your memories to your past self from fifteen minutes ago. In order to work, it must have one hit of meth loaded into it, which is permanently consumed upon use. This will affect all players in the party.
+
+
+==================
+Hyperelectromagnet
+==================
+Aim at a metal object and pull it toward you. You may then roll a dexterity check DC 15 to catch the item as it flies toward you. Needs ten minutes to recharge before it can be used again.
+
+
+===================
+Your Supply of Meth
+===================
+One hit of meth is one sixteenth of an ounce. A hit can be smoked during a short or long rest. When smoked, gives -5 to CHA, and +3 to STR and DEX for three hours.
+
+You currently have this many hits of meth:
+
+
+=======
+Handgun
+=======
+Standard ranged weapon. Add DEX to your attack roll.
+10 or more wounds
+15 or more kills
+
+
+=======
+Handgun
+=======
+Standard ranged weapon. Add DEX to your attack roll.
+10 or more wounds
+15 or more kills
+
+
+=======
+Handgun
+=======
+Standard ranged weapon. Add DEX to your attack roll.
+10 or more wounds
+15 or more kills
+
+
+=======
+Handgun
+=======
+Standard ranged weapon. Add DEX to your attack roll.
+10 or more wounds
+15 or more kills
+
+
+=======
+Handgun
+=======
+Standard ranged weapon. Add DEX to your attack roll.
+10 or more wounds
+15 or more kills
+
+
+=======================
+Double-Barreled Shotgun
+=======================
+Standard ranged weapon. Add DEX+5 to your attack roll. Only fires two shots before it has to reload. Reloading requires an action.
+10 or more wounds
+15 or more kills
+
+
+===========
+Machine Gun
+===========
+Standard ranged weapon. Add DEX-3 to your attack roll. Roll three times as many dice for this weapon; use the highest.
+10 or more wounds
+15 or more kills
+
+
+===========
+Switchblade
+===========
+Melee weapon. Add DEX to your attack roll.
+10 or more wounds
+15 or more kills
+
+
+===========
+Switchblade
+===========
+Melee weapon. Add DEX to your attack roll.
+10 or more wounds
+15 or more kills
+
+
+===========
+Switchblade
+===========
+Melee weapon. Add DEX to your attack roll.
+10 or more wounds
+15 or more kills
+
+
+===============
+Butterfly Knife
+===============
+Melee weapon. Add DEX to your attack roll.
+10 or more wounds
+15 or more kills
+
+
+============
+Pocket Knife
+============
+Melee weapon. Add DEX to your attack roll.
+10 or more wounds
+15 or more kills
+
+
+============
+Baseball Bat
+============
+Melee weapon. Add STR to your attack roll.
+10 or more wounds
+15 or more kills
+
+
+======
+Katana
+======
+Melee weapon. Add STR plus an additional 1d10 to your attack roll.
+10 or more wounds
+15 or more kills
+You have +10ft of speed on any turn that you attack an enemy with this weapon.
+
+
+================
+Bulletproof Vest
+================
+You are immune to the negative effects of becoming wounded during combat.
