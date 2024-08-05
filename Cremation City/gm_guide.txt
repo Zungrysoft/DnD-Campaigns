@@ -3,6 +3,7 @@ Overview
 ========
 [GM NOTE]: This is the main guide for the Game Master. Please read this guide all the way through before starting. Information about specific locations may be read separately in the "locations" document. Anything with [GM NOTE]: in front of it is not to be read directly to the players and is for your reference.
 
+
 ==================
 Combat Differences
 ==================
@@ -14,6 +15,7 @@ Combat Differences
 [GM NOTE]: Combat is very difficult. The mystical time-travelling device the players will get from Preston Edison's Storage Shed lets players restart combat if they fail, but doing this will permanently consume one sixteenth of an ounce (one hit) of meth. This limits players both by money and by the amount of product their dealer Tats has on hand.
 
 [GM NOTE]: The initiative order changing mechanic is a bit weird, especially since turns must be taken inside 20 seconds. So I have built a simple web application to track this. Go to https://zungrysoft.github.io/initiative-tracker/ for an easier way to track the currently active player in this campaign.
+
 
 ============
 Introduction
@@ -33,5 +35,3 @@ Lucky Joe notices that three men have just walked through the open front door. I
 Grimly and his henchmen leave the apartment. Now it's up to you to figure out what to do in these 48 hours. If you all look at your character sheets, you will each have a "Connections" section. These might give you some ideas on where to go next.
 
 [GM NOTE]: Your savvy players might try to sell James the 2002 Ford Crown Victoria that Helen stole. Kelley Blue Book value was about $30,000 in 2002. James won't have any of it though. "What do I look like, Greasy Eddie's Used American Shitboxes? If you want to pawn that oversized piece of shit you've got parked out front, be my guest. But I take my payment in cash." If they do try to sell it at a used car dealership, they won't get very far since the car is stolen. The most they will likely achieve is getting the police called on them.
-
-
